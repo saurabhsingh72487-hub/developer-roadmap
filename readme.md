@@ -28,7 +28,7 @@ Roadmaps are now interactive, you can click the nodes to read more about the top
 
 ![](https://i.imgur.com/waxVImv.png)
 
-Here is the list of available roadmaps with more being actively worked upon.
+Here is the list of available roadmaps with more being actively worked upon..
 
 > Have a look at the [get started](https://roadmap.sh/get-started) page that might help you pick up a path.
 
